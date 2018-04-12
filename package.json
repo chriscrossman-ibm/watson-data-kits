@@ -1,7 +1,7 @@
 {
-  "name": "knowledge_kits_nodejs",
+  "name": "watson-data-kits",
   "version": "0.1.2",
-  "description": "A Node.js wrapper for Knowledge Kits API",
+  "description": "Node API SDK package providing programmatic access to the Watson Data Kits API ",
   "main": "index.js",
   "scripts": {
     "test": "gulp"
